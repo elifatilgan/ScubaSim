@@ -1,0 +1,13 @@
+# Any higher and will hit this bug:
+# https://github.com/sphinx-doc/sphinx/issues/10951
+docutils==0.16
+furo @ git+https://github.com/wave-harmonic/furo@96e638c16c501f8989548d3faa294a30db1003c1
+myst-parser==0.18.1
+readthedocs-sphinx-search==0.1.2
+Sphinx==4.5.0
+sphinx-autobuild==2021.3.14
+sphinx-hoverxref @ git+https://github.com/readthedocs/sphinx-hoverxref@af7a507f7213288ee783576a357530a98e11d487
+sphinx-inline-tabs @ git+https://github.com/daleeidd/sphinx-inline-tabs@e70a7d08f11df10df1011c575d73d6f296b62cfc
+sphinx-issues==3.0.1
+sphinx-notfound-page==0.8.3
+sphinx-panels==0.6.0

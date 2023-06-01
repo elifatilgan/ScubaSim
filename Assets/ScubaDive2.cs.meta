@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: beb432dc82f78634b94a2ff74ac706f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AirBar: {instanceID: 0}
+  - FinBar: {instanceID: 0}
+  - audio2: {fileID: 8300000, guid: 625b0473935c8f9468dea09f91f59ef7, type: 3}
+  - audio3: {fileID: 8300000, guid: 6f51cfc0ed86beb4badacd61b955eeae, type: 3}
+  - audioSource: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - buttonNoDelay: {instanceID: 0}
+  - buttonInfoDelay: {instanceID: 0}
+  - buttonMatDelay: {instanceID: 0}
+  - buttonBothDelay: {instanceID: 0}
+  - buttonFastFlow: {instanceID: 0}
+  - buttonSlowFlow: {instanceID: 0}
+  - buttonStart: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
